@@ -9,7 +9,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://youtu.be/PSy5ye0tzkk?si=wCmAsQG-N534R5cm)
+- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://youtu.be/_fqgvpRICXM)
+- 
 
 <h2>Environments and Technologies Used</h2>
 
